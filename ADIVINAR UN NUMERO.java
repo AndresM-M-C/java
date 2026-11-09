@@ -16,5 +16,7 @@ public class AdivinaNumero {
             }
         } while (intento != numeroSecreto);
         System.out.println("¡Correcto! El número era " + numeroSecreto);
+
+        
     }
 }
